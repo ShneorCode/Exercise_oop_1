@@ -1,0 +1,14 @@
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\bin\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.exe
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\bin\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.deps.json
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\bin\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.runtimeconfig.json
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\bin\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.dll
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\bin\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.pdb
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.GeneratedMSBuildEditorConfig.editorconfig
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.AssemblyInfoInputs.cache
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.AssemblyInfo.cs
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.csproj.CoreCompileInputs.cache
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.dll
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\refint\תרגיל_מונחה עצמים_סוכנים.dll
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.pdb
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\תרגיל_מונחה עצמים_סוכנים.genruntimeconfig.cache
+C:\coffe\תרגיל_מונחה עצמים_סוכנים\obj\Debug\net8.0\ref\תרגיל_מונחה עצמים_סוכנים.dll

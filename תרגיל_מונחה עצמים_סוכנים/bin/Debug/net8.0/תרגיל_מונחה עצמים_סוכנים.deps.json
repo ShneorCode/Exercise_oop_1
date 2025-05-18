@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "תרגיל_מונחה עצמים_סוכנים/1.0.0": {
+        "runtime": {
+          "תרגיל_מונחה עצמים_סוכנים.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "תרגיל_מונחה עצמים_סוכנים/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
